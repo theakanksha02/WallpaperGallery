@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="img">
+        <item>@drawable/wall1</item>
+        <item>@drawable/wall2</item>
+        <item>@drawable/wall3</item>
+        <item>@drawable/wall4</item>
+    </integer-array>
+
+</resources>
